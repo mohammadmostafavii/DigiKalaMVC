@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/core/model.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/models/model_adminCategory.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/models/model_adminComment.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/models/model_adminDashboard.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/models/model_adminOrder.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/models/model_adminProduct.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/models/model_adminSetting.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/models/model_adminSlider.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/models/model_adminStatistics.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/models/model_checkOut.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/models/model_comment.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/models/model_index.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/models/model_login.php" dialect="ClickHouse" />
+    <file url="file://$PROJECT_DIR$/models/model_panel.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/models/model_product.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/models/model_search.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/models/model_showCard.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/models/model_showCard2.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/models/model_showCard4.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/test3.php" dialect="GenericSQL" />
+  </component>
+</project>

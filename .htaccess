@@ -1,0 +1,12 @@
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+# ^ => start string
+# $ => end string
+# . => all characters
+# علامت + یعنی حداقل باید یک کاراکتر داشته باشیم.
+#در کل یعنی هر رشته ای در url وارد شد به صفحه index.php برو.
+
+RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
